@@ -1,0 +1,9 @@
+1,Shahroz,Gulliyev,1997,Male
+2,Ramz,Gulliyev,1995,Male
+3,Aziz,Gulliyev,1990,Male
+4,Dilobar,Ilmuradova,1989,Female
+5,Otabek,Gulliyev,2001,Male
+6,Rano,Hayitova,1969,Female
+7,Hamza,Ilmuradov,1965,Male
+8,Guli,Abdurazzakova,2013,Female
+9,Artur,Abdurazzakov,2014,Male
